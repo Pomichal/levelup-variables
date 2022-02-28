@@ -14,7 +14,11 @@ public class InputManager : MonoBehaviour
     // exercise 1
     public void HelloWorld()
     {
-        // TODO: print "Hello World!" with PrintAnswer method
+        // TODO: print "Hello World!" with PrintAnswer method,
+        // usage:
+        // string TheAnswerAsString;
+        // TheAnswerAsString = "asdf"    // store the answer in the variable
+        // PrintAnswer(TheAnswerAsString);
     }
 
     // exercise 2
